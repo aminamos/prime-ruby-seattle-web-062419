@@ -1,6 +1,5 @@
 require 'benchmark'
 
-Benchmark.bm 
 
 def prime?(x)
   return false if x <=1
